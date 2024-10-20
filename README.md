@@ -42,4 +42,4 @@ Ensure that you have a Bash-compatible terminal installed.
 
 ## Credits
 
-All credits for these scripts go to **Gaurav Sharma**, from whom I have learned and gained knowledge about bash scripting.
+All credits for these scripts go to **Gourav Sharma**, from whom I have learned and gained knowledge about bash scripting.
